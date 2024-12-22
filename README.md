@@ -54,6 +54,7 @@ Your app will be running at http://localhost:5173.
 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
+<img width="960" alt="weather app screenshot" src="https://github.com/user-attachments/assets/d0d3fdf0-2d26-4e67-9135-3580533d3f4d" />
 
 
 
